@@ -1,0 +1,8 @@
+Once you have cloned this repository, navigate to the folder named blog_html and double click on the 
+index.html to see how the blog looks like.
+
+Inorder to learn more you can then begin editing the code using your code editor.
+
+For Example: To edit index.html just right click on it and choose Edit with Notepad++
+
+If you want to explore more how things work then you can use this code to continue with your html,css and js practice.
